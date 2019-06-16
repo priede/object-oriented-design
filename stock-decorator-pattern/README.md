@@ -3,3 +3,6 @@
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/priede/object-oriented-design/blob/master/stock-decorator-pattern/hw8.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+[embed]https://github.com/priede/object-oriented-design/blob/master/stock-decorator-pattern/hw8.pdf[/embed]
