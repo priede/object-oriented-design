@@ -5,4 +5,4 @@
 </object>
 
 
-[embed]https://github.com/priede/object-oriented-design/blob/master/stock-decorator-pattern/hw8.pdf[/embed]
+[embed] https://github.com/priede/object-oriented-design/blob/master/stock-decorator-pattern/hw8.pdf [/embed]
